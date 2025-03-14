@@ -14,9 +14,9 @@ Install node modules with the command "npm install".<br>
 
 Edit the program source file reports.js, update arguments of parameters in lines 4 to 14 for your desired report.<br>
 
-Start application with the command "node reports"<br>
+Start application with the command "node reports".<br>
 
-The report will be available in the folder post-call data as a zip file.
+The report will be available in the folder _post-call-data_ as a zip file.
 
 Exit the application and follow instructions here to generate a different report.
 
