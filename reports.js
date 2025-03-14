@@ -11,7 +11,7 @@ const reportFile = "./post-call-data/report01.zip";
 //-- see https://developer.vonage.com/en/api/reports#create-async-report-req-body --
 //-- uncomment desired type, comment other types
 const eventType = "VOICE-CALL"; // successful calls
-// const eventType = "VOICE-FAILED"; // successful calls
+// const eventType = "VOICE-FAILED"; // failed calls
 
 //==========================================================
 
