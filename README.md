@@ -2,17 +2,17 @@
 
 ## Prerequisites
 
-Install [Node.js](https://nodejs.org/) on your system, this application has been tested with Node.js version 18.19<br>
+Install [Node.js](https://nodejs.org/) on your system, this application has been tested with Node.js version 18.19.<br>
 
 If you would like to run this sample application on your local computer, you may use [ngrok](ngrok.com), create a [ngrok agent](https://ngrok.com/docs/getting-started/) to forward to local port 8000 (as this sample application listens on HTTP port 8000, secure https).
 
 ## Set up
 
-Copy or rename .env-example to .env<br>
+Copy or rename _.env-example_ to _.env_ .<br>
 
 Start ngrok, take note of the forwarding URL, e.g. https://xxxx.ngrok-free.dev or https://xxxx.ngrok.io as you will enter in the next step (as **CALL_BACK_BASE_URL** in .env file).
 
-Update parameters in .env file<br>
+Update parameters in .env file.<br>
 
 Install node modules with the command "npm install".<br>
 
